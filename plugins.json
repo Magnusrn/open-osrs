@@ -27,7 +27,7 @@
         "date":"2021-02-28",
         "sha512sum":"fedbdef6c3510bedb08868f6761db3b0c9bdf715c5ee6933d467aaf0096fdd9ffa4783bf97c02bfa0ede7f926c174e317f0c1c0c3e2cd35ab003db42800a99a6",
         "version":"0.0.1",
-        "url":"https://github.com/Magnusrn/open-osrs/blob/main/releases/kitschVmNotifier.jar?raw=true",
+        "url":"https://github.com/Magnusrn/open-osrs/raw/main/release/kitschVmNotifier.jar",
         "requires":"0.0.1"
       }
     ]
