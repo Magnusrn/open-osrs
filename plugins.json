@@ -1,4 +1,5 @@
-  {
+ [ 
+   {
     "projectUrl":"Kitsch#9214",
     "provider":"Kitsch",
     "name":"Object Hider",
@@ -31,3 +32,4 @@
       }
     ]
   }
+]
