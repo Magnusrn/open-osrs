@@ -1,0 +1,33 @@
+  {
+    "projectUrl":"Kitsch#9214",
+    "provider":"Kitsch",
+    "name":"Object Hider",
+    "description":"Hides objects from the game based on ID, modified from adams Fossil Island plugin. If you wish to unhide an object you must restart the plugin",
+    "id":"kitschObjectHider",
+    "releases":[
+      {
+        "date":"2021-02-28",
+        "sha512sum":"8dddd742b856226473155be8fb2747ce8f06f13f311a3c3c595d09f6713edcbac8cabe4582b4ff66c655c63a71eff5abb499602530a441a1032d9d6155a1c3bc",
+        "version":"0.0.1",
+        "url":"url",
+        "requires":"0.0.1"
+      }
+    ]
+  }
+
+  {
+    "projectUrl":"Kitsch#9214",
+    "provider":"Kitsch",
+    "name":"Volcanic mine Notifier",
+    "description":"Notifies on stability change 6 mins or prior for A role and B/C role",
+    "id":"kitschVmNotifier",
+    "releases":[
+      {
+        "date":"2021-02-28",
+        "sha512sum":"fedbdef6c3510bedb08868f6761db3b0c9bdf715c5ee6933d467aaf0096fdd9ffa4783bf97c02bfa0ede7f926c174e317f0c1c0c3e2cd35ab003db42800a99a6",
+        "version":"0.0.1",
+        "url":"url",
+        "requires":"0.0.1"
+      }
+    ]
+  }
