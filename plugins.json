@@ -8,7 +8,7 @@
     "releases":[
       {
         "date":"2021-02-28",
-        "sha512sum":"8dddd742b856226473155be8fb2747ce8f06f13f311a3c3c595d09f6713edcbac8cabe4582b4ff66c655c63a71eff5abb499602530a441a1032d9d6155a1c3bc",
+        "sha512sum":"7ac2fb200b8b9908dd8d8013795ad5adaed25189269d254fe283838a722a260576f78d32744eedf1f1d748769feb3c603673ab1bd732ecddebd13821d09162eb",
         "version":"0.0.1",
         "url":"https://github.com/Magnusrn/open-osrs/blob/main/release/kitschObjectHider-0.0.1.jar?raw=true",
         "requires":"0.0.1"
